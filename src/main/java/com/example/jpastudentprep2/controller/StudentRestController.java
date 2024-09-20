@@ -11,6 +11,7 @@ import java.time.LocalTime;
 import java.util.List;
 import java.util.Optional;
 
+@CrossOrigin
 @RestController
 public class StudentRestController {
 
